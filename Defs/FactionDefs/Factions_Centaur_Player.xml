@@ -13,7 +13,7 @@
     <backstoryCategories>
 	  <li>CentaurCivil</li>
     </backstoryCategories>
-    <expandingIconTexture>World/WorldObjects/Expanding/Town</expandingIconTexture>
+    <factionIconPath>World/WorldObjects/Expanding/Town</factionIconPath>
     <playerInitialSettlementNameMaker>NamerInitialSettlementColony</playerInitialSettlementNameMaker>
 		<factionNameMaker>NamerFactionOutlander</factionNameMaker>
     <settlementNameMaker>NamerSettlementOutlander</settlementNameMaker>

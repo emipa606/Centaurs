@@ -290,32 +290,6 @@
 			
 <AlienRace.BackstoryDef>
 
-    <defName>CentaurCivil_RacingCentaur</defName>
-    <title>Race centaur</title>
-    <titleShort>Racer</titleShort>
-    <baseDescription>[PAWN_nameDef] was bred for speed, racing in both underground and public tracks.</baseDescription>
-	
-    <bodyTypeMale>CentaurMale</bodyTypeMale>
-    <bodyTypeFemale>CentaurFemale</bodyTypeFemale>
-
-    <slot>Childhood</slot>
-    
-		<forcedTraits>
-		<li>
-			<defName>SpeedOffset</defName>
-			<degree>1</degree>
-		</li>
-	</forcedTraits>
-	
-    <spawnCategories>
-      <li>CentaurCivil</li>
-    </spawnCategories>
-    
-</AlienRace.BackstoryDef>	
-			
-			
-<AlienRace.BackstoryDef>
-
     <defName>CentaurCivil_BeastOfBurden</defName>
     <title>Beast of burden</title>
     <titleShort>Beast</titleShort>
