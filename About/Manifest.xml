@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <identifier>Centaurs</identifier>
-  <version>1.0.5.0</version>
+  <version>1.0.6.0</version>
   <dependencies>
     <li>erdelf.HumanoidAlienRaces</li>
   </dependencies>
   <incompatibleWith />
   <loadBefore />
-  <loadAfter>	
+  <loadAfter>
     <li>erdelf.HumanoidAlienRaces</li>
   </loadAfter>
   <manifestUri>https://raw.githubusercontent.com/emipa606/Centaurs/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/emipa606/Centaurs/releases</downloadUri>
 </Manifest>
-
-
-
-

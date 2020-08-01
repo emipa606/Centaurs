@@ -1,16 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <BodyPartGroupDef>
     <defName>CentaurLegs</defName>
     <label>legs</label>
     <listOrder>10</listOrder>
   </BodyPartGroupDef>
-
   <BodyPartGroupDef>
     <defName>CentaurHooves</defName>
     <label>hooves</label>
     <listOrder>9</listOrder>
   </BodyPartGroupDef>
-  
 </Defs>

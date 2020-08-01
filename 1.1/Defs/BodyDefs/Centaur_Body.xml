@@ -1,7 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-
   <BodyDef>
     <defName>Centaur</defName>
     <label>centaur</label>
@@ -38,9 +36,9 @@
             <li>Torso</li>
           </groups>
         </li>
-		<li>
+        <li>
           <def>CentaurTail</def>
-		  <customLabel>tail</customLabel>
+          <customLabel>tail</customLabel>
           <coverage>0.02</coverage>
           <height>Bottom</height>
           <groups>
@@ -70,7 +68,7 @@
           <groups>
             <li>Torso</li>
           </groups>
-		</li>
+        </li>
         <li>
           <def>CentaurHeart</def>
           <coverage>0.017</coverage>
@@ -137,7 +135,7 @@
               <groups>
                 <li>UpperHead</li>
                 <li>FullHead</li>
-								<li>HeadAttackTool</li>
+                <li>HeadAttackTool</li>
               </groups>
               <parts>
                 <li>
@@ -430,7 +428,7 @@
             <li>Waist</li>
           </groups>
         </li>
-                <li>
+        <li>
           <def>Leg</def>
           <customLabel>front left leg</customLabel>
           <coverage>0.060</coverage>
@@ -504,7 +502,7 @@
             </li>
           </parts>
         </li>
-		                <li>
+        <li>
           <def>Leg</def>
           <customLabel>rear left leg</customLabel>
           <coverage>0.060</coverage>
@@ -581,5 +579,4 @@
       </parts>
     </corePart>
   </BodyDef>
-  
 </Defs>

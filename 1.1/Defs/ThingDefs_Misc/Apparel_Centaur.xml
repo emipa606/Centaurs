@@ -1,9 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
   <!-- ====================================== Centaur Civilian =========================================== -->
-
-	<ThingDef ParentName="ApparelMakeableBase">
+  <ThingDef ParentName="ApparelMakeableBase">
     <defName>Apparel_CentaurPants</defName>
     <label>centaur pants</label>
     <description>A pair of pants suited for an equine body. Now we know how a horse would wear pants.</description>
@@ -23,8 +21,8 @@
       <li>Apparel</li>
     </thingCategories>
     <statBases>
-			<MaxHitPoints>100</MaxHitPoints>
-			<WorkToMake>3000</WorkToMake>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>3000</WorkToMake>
       <Mass>1</Mass>
       <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
       <StuffEffectMultiplierInsulation_Cold>0.20</StuffEffectMultiplierInsulation_Cold>
@@ -48,9 +46,6 @@
     </apparel>
     <colorGenerator Class="ColorGenerator_StandardApparel" />
   </ThingDef>
- 
- 
- 
   <ThingDef ParentName="ApparelMakeableBase">
     <defName>Apparel_CentaurBasicShirt</defName>
     <label>centaur T-shirt</label>
@@ -68,8 +63,8 @@
       <li>Apparel</li>
     </thingCategories>
     <statBases>
-			<MaxHitPoints>100</MaxHitPoints>
-			<WorkToMake>3200</WorkToMake>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>3200</WorkToMake>
       <Mass>0.50</Mass>
       <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
       <StuffEffectMultiplierInsulation_Cold>0.22</StuffEffectMultiplierInsulation_Cold>
@@ -95,9 +90,6 @@
     </apparel>
     <colorGenerator Class="ColorGenerator_StandardApparel" />
   </ThingDef>
-  
-
-  
   <ThingDef ParentName="ApparelMakeableBase">
     <defName>Apparel_CentaurCollarShirt</defName>
     <description>Designed for centaurs, this collared shirt comes with skirting and tiedowns to suit.</description>
@@ -118,15 +110,15 @@
       <li>Apparel</li>
     </thingCategories>
     <statBases>
-			<MaxHitPoints>100</MaxHitPoints>
-			<WorkToMake>5000</WorkToMake>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToMake>5000</WorkToMake>
       <Mass>0.6</Mass>
       <StuffEffectMultiplierArmor>0.2</StuffEffectMultiplierArmor>
       <StuffEffectMultiplierInsulation_Cold>0.26</StuffEffectMultiplierInsulation_Cold>
       <StuffEffectMultiplierInsulation_Heat>0.10</StuffEffectMultiplierInsulation_Heat>
       <EquipDelay>3</EquipDelay>
     </statBases>
-		<apparel>
+    <apparel>
       <bodyPartGroups>
         <li>Torso</li>
         <li>Neck</li>
@@ -147,11 +139,7 @@
     </apparel>
     <colorGenerator Class="ColorGenerator_StandardApparel" />
   </ThingDef>
-  
-   <!-- ====================================== Centaur Armour =========================================== -->
- 
-  
-  
+  <!-- ====================================== Centaur Armour =========================================== -->
   <ThingDef ParentName="ArmorMachineableBase">
     <defName>Apparel_CentaurFlakVest</defName>
     <label>centaur flak vest</label>
@@ -223,9 +211,7 @@
       </options>
     </colorGenerator>
   </ThingDef>
-	
-	
-<ThingDef ParentName="ArmorMachineableBase">
+  <ThingDef ParentName="ArmorMachineableBase">
     <defName>Apparel_CentaurFlakPants</defName>
     <label>centaur flak pants</label>
     <description>Modified pants suited to a centaur. The addition of armored plating grants effective protection from attacks without restricting movements.</description>
@@ -290,10 +276,7 @@
       </options>
     </colorGenerator>
   </ThingDef>
-
- 
- 
- <ThingDef ParentName="ArmorMachineableBase">
+  <ThingDef ParentName="ArmorMachineableBase">
     <defName>Apparel_CentaurFlakJacket</defName>
     <label>centaur flak jacket</label>
     <description>An armoured overcoat suited for a centaur. A step below plate armor, the defense offered is by no means insignificant and still doesn't impede movement.</description>
@@ -325,7 +308,8 @@
       <ArmorRating_Sharp>0.40</ArmorRating_Sharp>
       <ArmorRating_Blunt>0.08</ArmorRating_Blunt>
       <ArmorRating_Heat>0.10</ArmorRating_Heat>
-      <Insulation_Cold>14.4</Insulation_Cold> <!-- like a cloth jacket -->
+      <Insulation_Cold>14.4</Insulation_Cold>
+      <!-- like a cloth jacket -->
       <Insulation_Heat>3</Insulation_Heat>
       <EquipDelay>6</EquipDelay>
     </statBases>
@@ -361,5 +345,4 @@
       </options>
     </colorGenerator>
   </ThingDef>
- 
 </Defs>
