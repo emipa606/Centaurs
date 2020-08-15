@@ -2,7 +2,7 @@
 <ModMetaData>
   <name>Centaurs (Continued)</name>
   <packageId>Mlie.Centaurs</packageId>
-  <author>Mlie</author>
+  <author>Zedralan</author>
   <url>https://github.com/emipa606/Centaurs</url>
   <supportedVersions>
     <li>1.0</li>
@@ -20,7 +20,7 @@
   <loadAfter>
     <li>erdelf.HumanoidAlienRaces</li>
   </loadAfter>
-  <description>This is a reupload of Zedralans mod updated for RimWorld 1.1
+  <description>This is a reupload of Zedralans mod
 	https://steamcommunity.com/sharedfiles/filedetails/?id=1576793761
 	Non-Steam version: https://github.com/emipa606/Centaurs
 	
