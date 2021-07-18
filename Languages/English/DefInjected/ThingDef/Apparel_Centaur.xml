@@ -1,28 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Centaur Civilian -->
-
   <Apparel_CentaurPants.label>centaur pants</Apparel_CentaurPants.label>
   <Apparel_CentaurPants.description>A pair of pants suited for an equine body. Now we know how a horse would wear pants.</Apparel_CentaurPants.description>
-
   <Apparel_CentaurBasicShirt.label>centaur T-shirt</Apparel_CentaurBasicShirt.label>
   <Apparel_CentaurBasicShirt.description>A modified T-shirt for use by centaurs.</Apparel_CentaurBasicShirt.description>
-
   <Apparel_CentaurCollarShirt.label>button-down centaur shirt</Apparel_CentaurCollarShirt.label>
   <Apparel_CentaurCollarShirt.description>Designed for centaurs, this collared shirt comes with skirting and tiedowns to suit.</Apparel_CentaurCollarShirt.description>
-
-
   <!-- Centaur Armour -->
-
   <Apparel_CentaurFlakVest.label>centaur flak vest</Apparel_CentaurFlakVest.label>
   <Apparel_CentaurFlakVest.description>Flak armor modified for a centaur wearer. Additional weight and materials are required when compared to humanoid vests, allowing for protection of the flanks. This armor design does not protect the limbs.</Apparel_CentaurFlakVest.description>
-
   <Apparel_CentaurFlakPants.label>centaur flak pants</Apparel_CentaurFlakPants.label>
   <Apparel_CentaurFlakPants.description>Modified pants suited to a centaur. The addition of armored plating grants effective protection from attacks without restricting movements.</Apparel_CentaurFlakPants.description>
-
   <Apparel_CentaurFlakJacket.label>centaur flak jacket</Apparel_CentaurFlakJacket.label>
   <Apparel_CentaurFlakJacket.description>An armoured overcoat suited for a centaur. A step below plate armor, the defense offered is by no means insignificant and still doesn't impede movement.</Apparel_CentaurFlakJacket.description>
-
-
 </LanguageData>
