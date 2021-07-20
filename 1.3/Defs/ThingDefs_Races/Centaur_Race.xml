@@ -202,9 +202,6 @@
         </alienPartGenerator>
         <humanRecipeImport>true</humanRecipeImport>
       </generalSettings>
-      <hairSettings>
-        <getsGreyAt>255</getsGreyAt>
-      </hairSettings>
       <raceRestriction>
         <onlyUseRaceRestrictedApparel>true</onlyUseRaceRestrictedApparel>
         <apparelList>
