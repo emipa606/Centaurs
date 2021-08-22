@@ -20,7 +20,7 @@ This is a upload of Zedralans mod
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
 
-It&amp;apos;s highly unlikely that this mod will be receiving any additional work. Due to the nature of Rimworld mods all files are open for editing, and anyone interested is welcome to use anything here for their own mods.
+It&apos;s highly unlikely that this mod will be receiving any additional work. Due to the nature of Rimworld mods all files are open for editing, and anyone interested is welcome to use anything here for their own mods.
 
 
 
@@ -31,7 +31,7 @@ It does not currently integrate centaurs into the world nor does it have enough 
 
 
 
-A genetically engineered solution to anyone&amp;apos;s labor problems, a centaur is the obvious choice.
+A genetically engineered solution to anyone&apos;s labor problems, a centaur is the obvious choice.
 
 Centaur biology makes them fast and durable but may or may not be balanced by their larger size and inability to wear heavy armours. Probably way more OP when player controlled with a sniper rifle than anyone could have guessed.
 
