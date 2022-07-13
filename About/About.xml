@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Centaurs (Continued)</name>
   <packageId>Mlie.Centaurs</packageId>
@@ -21,22 +21,26 @@
   <loadAfter>
     <li>erdelf.HumanoidAlienRaces</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 This is a upload of Zedralans mod
 	https://steamcommunity.com/sharedfiles/filedetails/?id=1576793761
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
 	[tr]
 		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/Centaurs][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
-	[/tr]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 
-It&apos;s highly unlikely that this mod will be receiving any additional work. Due to the nature of Rimworld mods all files are open for editing, and anyone interested is welcome to use anything here for their own mods.
+It&amp;apos;s highly unlikely that this mod will be receiving any additional work. Due to the nature of Rimworld mods all files are open for editing, and anyone interested is welcome to use anything here for their own mods.
 
 
 
@@ -47,7 +51,7 @@ It does not currently integrate centaurs into the world nor does it have enough 
 
 
 
-A genetically engineered solution to anyone&apos;s labor problems, a centaur is the obvious choice.
+A genetically engineered solution to anyone&amp;apos;s labor problems, a centaur is the obvious choice.
 
 Centaur biology makes them fast and durable but may or may not be balanced by their larger size and inability to wear heavy armours. Probably way more OP when player controlled with a sniper rifle than anyone could have guessed.
 
@@ -58,7 +62,7 @@ Mostly just a personal project, something is definitely broken in this version.
 Many thanks to the Androids race mod which made me want to do this, and to the Orassans race mod from which just about everything is stolen at this point.
 
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -67,6 +71,5 @@ Many thanks to the Androids race mod which made me want to do this, and to the O
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
-
 </description>
 </ModMetaData>
