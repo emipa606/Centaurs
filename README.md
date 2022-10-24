@@ -1,23 +1,14 @@
 # Centaurs
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 This is a upload of Zedralans mod
 	https://steamcommunity.com/sharedfiles/filedetails/?id=1576793761
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/Centaurs]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 It&apos;s highly unlikely that this mod will be receiving any additional work. Due to the nature of Rimworld mods all files are open for editing, and anyone interested is welcome to use anything here for their own mods.
@@ -42,7 +33,7 @@ Mostly just a personal project, something is definitely broken in this version.
 Many thanks to the Androids race mod which made me want to do this, and to the Orassans race mod from which just about everything is stolen at this point.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
