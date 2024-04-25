@@ -26,11 +26,11 @@
 This is a upload of Zedralans mod
 	https://steamcommunity.com/sharedfiles/filedetails/?id=1576793761
 
-[img]https://i.imgur.com/pufA0kM.png[/img]
+[img]https://i.imgur.com/KFjAmff.png[/img]
 
 [table]
 	[tr]
-		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
 		[td][url=https://github.com/emipa606/Centaurs][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
     [tr]
@@ -41,7 +41,7 @@ This is a upload of Zedralans mod
 	
 [img]https://i.imgur.com/Z4GOv8H.png[/img]
 
-It&amp;apos;s highly unlikely that this mod will be receiving any additional work. Due to the nature of Rimworld mods all files are open for editing, and anyone interested is welcome to use anything here for their own mods.
+It’s highly unlikely that this mod will be receiving any additional work. Due to the nature of Rimworld mods all files are open for editing, and anyone interested is welcome to use anything here for their own mods.
 
 
 
@@ -52,7 +52,7 @@ It does not currently integrate centaurs into the world nor does it have enough 
 
 
 
-A genetically engineered solution to anyone&amp;apos;s labor problems, a centaur is the obvious choice.
+A genetically engineered solution to anyone’s labor problems, a centaur is the obvious choice.
 
 Centaur biology makes them fast and durable but may or may not be balanced by their larger size and inability to wear heavy armours. Probably way more OP when player controlled with a sniper rifle than anyone could have guessed.
 
@@ -67,12 +67,13 @@ Many thanks to the Androids race mod which made me want to do this, and to the O
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
-[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
 [/list]
 
-
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2008741820]Last updated 2023-01-09[/url]</description>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2008741820][img]https://img.shields.io/github/v/release/emipa606/Centaurs?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.4.3</modVersion>
 </ModMetaData>
